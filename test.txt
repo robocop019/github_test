@@ -4,3 +4,4 @@ eggs
 milk
 gibberish
 another line
+last line
